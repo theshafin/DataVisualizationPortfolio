@@ -3,30 +3,31 @@
 
 
 ## Overview  
-ashjdfhasd 
+This dataset shows the total number of adult transit riders in Calgary from 2019 to 2024, aggregated by fare type and rounded to 100,000 riders. The fare categories include Monthly Pass, Low-Income Monthly Pass, Book of Tickets, U-Pass, and Cash-Single Ticket rides.  
+
+The goal of these visualizations is to explore ridership trends across different fare types, highlight year-to-year changes, and compare the relative popularity of each category. By presenting the data in multiple formats, the visualizations provide insights into how ridership patterns have shifted over time.  
 
 ## Tools  
-- Python (Matplotlib, Seaborn, Plotly)  
-- Tableau / Power BI  
-- R (ggplot2)  
-- D3.js  
+- Graphing Paper
+- Ruler
+- Pens
+- Highlighter 
 
-*(List only what you actually used.)*  
 
 ## Visualizations  
-### Viz 1 – [Title]  
+### Sketch 1  
 ![Viz1](images/viz1.png)  
 
-### Viz 2 – [Title]  
+### Sketch 2 
 ![Viz2](images/viz2.png)  
 
-### Viz 3 – [Title]  
+### Sketch 3
 ![Viz3](images/viz3.png)  
 
-### Viz 4 – [Title]  
-![Viz4](images/viz4.png)  
+### Sketch 4 
+![Viz4](Images/figure4.png4.png) 
 
-### Viz 5 – [Title]  
+### Sketch 5
 ![Viz5](images/viz5.png)  
 
 ## Insights  
