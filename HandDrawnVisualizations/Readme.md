@@ -25,7 +25,7 @@ The goal of these visualizations is to explore ridership trends across different
 ![Viz3](images/viz3.png)  
 
 ### Sketch 4 
-![Viz4](Images/figure4.png4.png) 
+![Sketch4](Images/figure4.png) 
 
 ### Sketch 5
 ![Viz5](images/viz5.png)  
