@@ -28,7 +28,9 @@ The goal of these visualizations is to explore ridership trends across different
 ![Sketch4](Images/figure4.png) 
 
 ### Sketch 5
-![Sketch5](Images/figure5.png)  
+![Sketch5](Images/figure5.png)
 
 ## Insights  
-- Hand drawing data visualizations is a long and extremely tiring thing to do.  
+- Hand drawing data visualizations is a long and extremely tiring thing to do.
+- Covid Was Scary!
+ 
