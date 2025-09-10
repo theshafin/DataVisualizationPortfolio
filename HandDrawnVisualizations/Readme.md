@@ -1,5 +1,5 @@
 # City of Calgary Transit Riderships Over the Years
-![Viz1](images/image.png)  
+![DataSet](Images/dataset.png)  
 
 
 ## Overview  
