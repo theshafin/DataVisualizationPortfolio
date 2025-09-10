@@ -16,19 +16,19 @@ The goal of these visualizations is to explore ridership trends across different
 
 ## Visualizations  
 ### Sketch 1  
-![Viz1](images/viz1.png)  
+![Sketch1](Images/figure1.png)
 
 ### Sketch 2 
-![Viz2](images/viz2.png)  
+![Sketch2](Images/figure2.png)
 
 ### Sketch 3
-![Viz3](images/viz3.png)  
+![Sketch3](Images/figure3.png)
 
 ### Sketch 4 
 ![Sketch4](Images/figure4.png) 
 
 ### Sketch 5
-![Viz5](images/viz5.png)  
+![Sketch5](Images/figure5.png)  
 
 ## Insights  
-- 2–3 short bullet points on key findings.  
+- Hand drawing data visualizations is a long and extremely tiring thing to do.  
