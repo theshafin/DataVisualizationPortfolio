@@ -1,36 +1,35 @@
-# City of Calgary Transit Riderships Over the Years
+# City of Calgary Cyclist Counts(2018-2024)
 ![DataSet](Images/dataset.png)  
 
 
 ## Overview  
-This dataset shows the total number of adult transit riders in Calgary from 2019 to 2024, aggregated by fare type and rounded to 100,000 riders. The fare categories include Monthly Pass, Low-Income Monthly Pass, Book of Tickets, U-Pass, and Cash-Single Ticket rides.  
+The data set for this week week of class comes from The City of Calgary Open Data Portal and is drawn from the data set Bike and Pedestrian Counts which gives a sensor count of bike riders at several locations. We have included four locations in this data set. The values in the data set are groups of 40,000 cyclists.
 
-The goal of these visualizations is to explore ridership trends across different fare types, highlight year-to-year changes, and compare the relative popularity of each category. By presenting the data in multiple formats, the visualizations provide insights into how ridership patterns have shifted over time.  
+The goal of these visualizations is to explore cyclists trends across different quadrants, highlight year-to-year changes, and compare the relative popularity of each quadrant. By presenting the data in multiple formats, the visualizations provide insights into how ridership patterns have shifted over time.  
 
 ## Tools  
 - Graphing Paper
 - Ruler
-- Pens
-- Highlighter 
+- Blocks
+- Crafting material
 
 
 ## Visualizations  
-### Sketch 1  
-![Sketch1](Images/figure1.png)
+### Visualization 1  
+![Visualization1](Images/figure1.png)
 
-### Sketch 2 
-![Sketch2](Images/figure2.png)
+### Visualization 2 
+![Visualization2](Images/figure2.png)
 
-### Sketch 3
-![Sketch3](Images/figure3.png)
+### Visualization 3
+![Visualization3](Images/figure3.png)
 
-### Sketch 4 
-![Sketch4](Images/figure4.png) 
+### Visualization 4 
+![Visualization4](Images/figure4.png) 
 
-### Sketch 5
-![Sketch5](Images/figure5.png)
+### Visualization 5
+![Visualization5](Images/figure5.png)
 
 ## Insights  
-- Hand drawing data visualizations is a long and extremely tiring thing to do.
-- Covid Was Scary!
+- SW consistently has the highest amount of cyclists. 
  
