@@ -27,6 +27,11 @@ The goal of these visualizations is to explore cyclists trends across different 
 ### Visualization 4 
 ![Visualization4](Images/figure4.png)
 
+### Visualization 4 
+![Visualization5](Images/figure5.png)
+
+
+
 
 ## Insights  
 - SW consistently has the highest amount of cyclists. 
