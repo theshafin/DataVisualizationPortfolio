@@ -17,7 +17,7 @@ The goal of these visualizations is to highlight different aspects of the datase
 ![Visualization1](Images/figure1.png)
 
 ### Visualization 2 
-![Visualization2](Images/figure2.png)![alt text](image.png)
+![Visualization2](Images/figure2.png)
 
 ### Visualization 3
 ![Visualization3](Images/figure3.png)
