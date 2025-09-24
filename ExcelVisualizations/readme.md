@@ -13,6 +13,7 @@ The goal of these visualizations is to highlight different aspects of the datase
 - Dataset provided by the Alberta Government  
 
 ## Visualizations  
+
 ### Visualization 1  
 ![Visualization1](Images/figure1.png)
 
