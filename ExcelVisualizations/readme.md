@@ -30,4 +30,7 @@ The goal of these visualizations is to highlight different aspects of the datase
 ![Visualization5](Images/figure5.png)
 
 ## Insights  
-- SW consistently has the highest amount of cyclists. 
+- BHASE Programs have dominated STEM progrmas in completions.
+- Education levels are steadily increasing in Alberta
+- The older people get, the lesser they puruse education. 
+- Most educational progrmas completed in Alberta are Degrees - more than Diplomas and Ceritficates(surprising. )
