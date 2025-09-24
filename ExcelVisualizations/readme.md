@@ -1,5 +1,5 @@
 # Alberta Post-Secondary Credential Completions (2018–2024)
-![DataSet](Images/dataset.png)  
+Dataset is found is Government of Alberta's website. 
 
 
 ## Overview  
