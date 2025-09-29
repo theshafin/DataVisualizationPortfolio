@@ -28,6 +28,7 @@ The purpose of these visualizations is to highlight meaningful differences and t
 ### Visualization 4 
 ![Visualization4](Images/figure4.png)
 
+
 ### Visualization 5 
 ![Visualization5](Images/figure5.png)
 
