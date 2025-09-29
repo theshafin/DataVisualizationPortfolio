@@ -1,16 +1,16 @@
 # Alberta Post-Secondary Credential Completions (2018–2024)
-Dataset is found in Government of Alberta's website. 
+![DataSet](Images/dataset.csv) 
 
 
 ## Overview  
-This statistic describes the record count of completions by each institution and academic year within Alberta's publicly-funded post-secondary education system. Completions represent the status of the learner, at the program level, at the end of a given session. The data tables presented are related to program completions in approved credential programs at publicly-funded post-secondary institutions within Alberta. Separate data files exist focusing on the system level, or for subsets that focus on either international or self-identified Indigenous learners. - Alberta Government
-
-The goal of these visualizations is to highlight different aspects of the dataset, showing meaningful patterns in completions across years and institutions. By presenting the data in multiple formats, the visualizations provide insights into system-wide trends and changes over time.
+This dataset presents the average tuition fees charged to Canadian and international students at the undergraduate and graduate levels in Alberta compared to the Canadian national average. The data spans multiple academic years and provides insight into how tuition costs vary by student type (domestic vs. international) and study level (undergraduate vs. graduate).
+The purpose of these visualizations is to highlight meaningful differences and trends in tuition fees across time and location. By comparing Alberta to the Canadian average, the charts illustrate whether Alberta institutions are more affordable or more expensive for students, and how this has changed over the years.
  
 ## Tools  
-- Microsoft Excel  
-- Built-in Excel charting/visualization features  
-- Dataset provided by the Alberta Government  
+- Datawrapper & Microsoft Excel 
+- Built-in Datawrapper charting/visualization features  
+- Microsoft Excel for Data Cleaning/Data Wrangling and making pviots tables. 
+- Dataset provided by the Canadian Government 
 
 ## Visualizations  
 
