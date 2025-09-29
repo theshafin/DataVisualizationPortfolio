@@ -5,7 +5,8 @@
 This repository showcases a collection of data visualizations I’ve created using different tools and techniques. Each project focuses on transforming datasets into clear, insightful, and visually engaging stories.  
 
 ## 🛠 Tools & Technologies  
-- **Python** – Matplotlib, Seaborn, Plotly  
+- **Python** – Matplotlib, Seaborn, Plotly
+- ****Datawrapper** - creating publication-ready visualizations for clear storytelling
 - **Tableau / Power BI** – interactive dashboards and reports  
 - **R (ggplot2)** – statistical and exploratory visualizations  
 - **JavaScript / D3.js** – web-based interactive graphics
@@ -24,4 +25,5 @@ Each folder in this repository contains:
 
 ## 🚀 Future Work  
 I plan to continue expanding this portfolio with new visualizations, exploring emerging tools, and experimenting with interactive, web-based data storytelling.  
+
 
