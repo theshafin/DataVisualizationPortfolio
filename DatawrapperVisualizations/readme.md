@@ -1,4 +1,4 @@
-## Tuition Fees in Alberta vs. Canada (2006–2025)
+## Tuition Fees in Alberta vs. Canada By Levels of Study and Student Type (2006–2025)
 Dataset can be found under Images
 (Images/dataset.csv) 
 
@@ -17,6 +17,7 @@ The purpose of these visualizations is to highlight meaningful differences and t
 
 ### Visualization 1  
 ![Visualization1](Images/figure1.png)
+
 
 ### Visualization 2 
 ![Visualization2](Images/figure2.png)
