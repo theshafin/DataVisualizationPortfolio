@@ -35,3 +35,8 @@ The purpose of these visualizations is to highlight meaningful differences and t
 
 ## Insights  
 - Alberta is generally cheaper than the Canadian average for International Students at both Undergraduate and graduate levels
+- Alberta undergrad tuition for Canadians is lower than the national average.
+- Graduate tuition in Alberta is closer to Canada’s overall average.
+- International students pay far higher fees than domestic students.
+- Alberta is most affordable for Canadian undergraduates.
+- Tuition fees rise steadily across all student groups.
