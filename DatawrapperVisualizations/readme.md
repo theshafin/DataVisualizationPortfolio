@@ -1,4 +1,5 @@
-# Alberta Post-Secondary Credential Completions (2018–2024)
+## Tuition Fees in Alberta vs. Canada (2006–2025)
+Dataset can be found under Images
 ![DataSet](Images/dataset.csv) 
 
 
