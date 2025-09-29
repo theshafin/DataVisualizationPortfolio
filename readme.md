@@ -6,7 +6,7 @@ This repository showcases a collection of data visualizations I’ve created usi
 
 ## 🛠 Tools & Technologies  
 - **Python** – Matplotlib, Seaborn, Plotly
-- ****Datawrapper** - creating publication-ready visualizations for clear storytelling
+- **Datawrapper** - creating publication-ready visualizations for clear storytelling
 - **Tableau / Power BI** – interactive dashboards and reports  
 - **R (ggplot2)** – statistical and exploratory visualizations  
 - **JavaScript / D3.js** – web-based interactive graphics
@@ -25,5 +25,6 @@ Each folder in this repository contains:
 
 ## 🚀 Future Work  
 I plan to continue expanding this portfolio with new visualizations, exploring emerging tools, and experimenting with interactive, web-based data storytelling.  
+
 
 
