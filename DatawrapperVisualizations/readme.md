@@ -32,8 +32,6 @@ The purpose of these visualizations is to highlight meaningful differences and t
 ### Visualization 5 
 ![Visualization5](Images/figure5.png)
 
+
 ## Insights  
-- BHASE Programs have dominated STEM progrmas in completions.
-- Education levels are steadily increasing in Alberta
-- The older people get, the lesser they pursue education. 
-- Most educational programs completed in Alberta are Degrees - more than Diplomas and Certificates(surprising!)
+- Alberta is generally cheaper than the Canadian average for International Students at both Undergraduate and graduate levels
