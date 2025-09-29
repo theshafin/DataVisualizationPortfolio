@@ -1,6 +1,6 @@
 ## Tuition Fees in Alberta vs. Canada (2006–2025)
 Dataset can be found under Images
-![DataSet](Images/dataset.csv) 
+(Images/dataset.csv) 
 
 
 ## Overview  
