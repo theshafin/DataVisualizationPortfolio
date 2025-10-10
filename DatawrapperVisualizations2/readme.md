@@ -4,8 +4,9 @@ Dataset can be found under Images
 
 
 ## Overview  
-This dataset presents the average tuition fees charged to Canadian and international students at the undergraduate and graduate levels in Alberta compared to the Canadian national average. The data spans multiple academic years and provides insight into how tuition costs vary by student type (domestic vs. international) and study level (undergraduate vs. graduate).
-The purpose of these visualizations is to highlight meaningful differences and trends in tuition fees across time and location. By comparing Alberta to the Canadian average, the charts illustrate whether Alberta institutions are more affordable or more expensive for students, and how this has changed over the years.
+This dataset illustrates the citizenship distribution of international students studying in Canada based on their country’s income classification, geographic region, and yearly totals of study permit holders.
+It spans multiple years and highlights how international student representation has evolved over time across different world regions and economic backgrounds.
+The goal of these visualizations is to explore which countries and income groups contribute the most to Canada’s international student population, how this distribution changes over time, and whether students from low- and middle-income countries are gaining or losing representation compared to those from high-income countries.
  
 ## Tools  
 - Datawrapper & Microsoft Excel 
@@ -34,9 +35,4 @@ The purpose of these visualizations is to highlight meaningful differences and t
 
 
 ## Insights  
-- Alberta is generally cheaper than the Canadian average for International Students at both Undergraduate and graduate levels
-- Alberta undergrad tuition for Canadians is lower than the national average.
-- Graduate tuition in Alberta is closer to Canada’s overall average.
-- International students pay far higher fees than domestic students.
-- Alberta is most affordable for Canadian undergraduates.
-- Tuition fees rise steadily across all student groups.
+- 
