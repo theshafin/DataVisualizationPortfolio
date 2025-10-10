@@ -1,4 +1,4 @@
-## Tuition Fees in Alberta vs. Canada By Levels of Study and Student Type (2006–2025)
+## Global Origins(Citizenships) of Study Permit Holders (2006–2025)
 Dataset can be found under Images
 (Images/dataset.csv) 
 
@@ -35,4 +35,8 @@ The goal of these visualizations is to explore which countries and income groups
 
 
 ## Insights  
-- 
+- India has become the largest source of international students in Canada, surpassing China and showing exponential growth between 2015 and 2024.
+- Asia dominates Canada’s international student population, with noticeable increases from countries like the Philippines and Iran, while African representation (e.g., Nigeria) continues to rise.
+- Total study permit holders have more than doubled since 2015, peaking in 2023, reflecting Canada’s growing global appeal as a study destination.
+- Students from lower- and upper-middle-income countries now make up the vast majority of Canada’s study permit holders, while high-income countries’ share has declined steadily.
+- Geographic distribution maps reveal concentrated origins in Asia and parts of Africa, emphasizing the regional imbalance and strong educational ties to developing economies.
