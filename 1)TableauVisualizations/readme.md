@@ -1,18 +1,18 @@
-## Global Origins(Citizenships) of Study Permit Holders (2006–2025)
+## River Water Quality Measurements Across Saskatchewan River Sites (2014–2017)
 Dataset can be found under Images
 (Images/dataset.csv) 
 
 
 ## Overview  
-This dataset illustrates the citizenship distribution of international students studying in Canada based on their country’s income classification, geographic region, and yearly totals of study permit holders.
-It spans multiple years and highlights how international student representation has evolved over time across different world regions and economic backgrounds.
-The goal of these visualizations is to explore which countries and income groups contribute the most to Canada’s international student population, how this distribution changes over time, and whether students from low- and middle-income countries are gaining or losing representation compared to those from high-income countries.
+This dataset presents recorded measurements of key water quality indicators collected from multiple sampling sites along the Saskatchewan River system between 2014 and 2017. It includes chemical and physical parameters such as copper, nitrate, phosphorus, and other compounds that influence aquatic health and environmental quality. The goal of these visualizations is to analyze temporal and spatial variations in water quality across different sites, identify patterns of pollution or consistency in readings, and evaluate whether the levels fall within acceptable environmental guidelines over time.
+
  
 ## Tools  
-- Datawrapper & Microsoft Excel 
-- Built-in Datawrapper charting/visualization features  
-- Microsoft Excel for Data Cleaning/Data Wrangling and making pviots tables. 
-- Dataset provided by the Canadian Government 
+- Tableau & Microsoft Excel  
+- Built-in Tableau features for data cleaning, filtering, and aggregation  
+- Microsoft Excel for preliminary data preparation and normalization  
+- Dataset provided by the Government of Saskatchewan / Water Quality Monitoring Program
+
 
 ## Visualizations  
 
@@ -34,9 +34,9 @@ The goal of these visualizations is to explore which countries and income groups
 ![Visualization5](Images/figure5.png)
 
 
-## Insights  
-- India has become the largest source of international students in Canada, surpassing China and showing exponential growth between 2015 and 2024.
-- Asia dominates Canada’s international student population, with noticeable increases from countries like the Philippines and Iran, while African representation (e.g., Nigeria) continues to rise.
-- Total study permit holders have more than doubled since 2015, peaking in 2023, reflecting Canada’s growing global appeal as a study destination.
-- Students from lower- and upper-middle-income countries now make up the vast majority of Canada’s study permit holders, while high-income countries’ share has declined steadily.
-- Geographic distribution maps reveal concentrated origins in Asia and parts of Africa, emphasizing the regional imbalance and strong educational ties to developing economies.
+## Insights
+- Dissolved ammonia levels were highest in 2013 across all Alberta river sites, particularly at the Saskatchewan River above Carrot River, suggesting localized pollution spikes during that year.  
+- The South Saskatchewan River at HWY 41 showed fluctuating chloride and oxygen concentrations between 2013 and 2016, with inverse trends hinting at possible seasonal or discharge-related influences.  
+- Arsenic concentrations in 2016 remained below the health guideline limit, although August exhibited a temporary increase, indicating potential short-term contamination events.  
+- Nitrogen levels across Alberta river sites in 2016 varied seasonally, with several months nearing or slightly exceeding the upper guideline recommendation at the Saskatchewan and South Saskatchewan River sites.  
+- Copper concentrations at the Saskatchewan River above Carrot River remained consistently below the upper guideline throughout 2013–2016, showing gradual improvement and stability in water quality conditions.
