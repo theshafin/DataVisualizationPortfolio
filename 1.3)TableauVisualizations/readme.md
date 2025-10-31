@@ -1,6 +1,6 @@
 ## Breeding Pairs of Canadian Birds Across Alberta  
 Dataset can be found under:  
-(Images/dataset.csv) 
+(images/dataset.csv) 
 
 
 ## Overview  
