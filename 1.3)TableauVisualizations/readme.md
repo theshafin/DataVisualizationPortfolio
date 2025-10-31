@@ -14,16 +14,16 @@ This dataset provides records of breeding bird pairs observed across multiple re
 
 
 ## Dashboard
-![First Dashboard Ever](Images/dash1.png)
+![First Dashboard Ever](images/dash1.png)
 
 ## Visualizations  
 
 ### Visualization 1  
-![Visualization1](Images/figure1.png)
+![Visualization1](images/figure1.png)
 
 
 ### Visualization 2 
-![Visualization2](Images/figure2.png)
+![Visualization2](images/figure2.png)
 
 ### Visualization 3
-![Visualization3](Images/figure3.png)
+![Visualization3](images/figure3.png)
