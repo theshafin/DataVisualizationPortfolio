@@ -16,6 +16,8 @@ This dataset provides records of breeding bird pairs observed across multiple re
 ## Dashboard
 ![First Dashboard Ever](images/dash1.png)
 
+Interactive dashboard can be found here: https://public.tableau.com/shared/K3F2Q6YRH?:display_count=n&:origin=viz_share_link
+
 ## Visualizations  
 
 ### Visualization 1  
