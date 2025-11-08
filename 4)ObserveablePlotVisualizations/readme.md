@@ -17,11 +17,11 @@ This dataset focuses on video games published on Steam during the year 2012, der
 ## Visualizations  
 
 ### Visualization 1  
-![Visualization1](Images/figure1.png)
+![Visualization1](Images/figure10.png)
 
 
 ### Visualization 2 
-![Visualization2](Images/figure2.png)
+![Visualization2](Images/figure20.png)
 
 ### Visualization 3
 ![Visualization3](Images/figure3.png)
